@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "YOLO training scripts"
+version: 1.0.0
+license: "BSD"
+type: software
+abstract: "Basic scripts to get started with YOLO"
+message: "If you use this software, please cite it as below."
+authors:
+  - given-names: Mark 
+    family-names: Simpson
+    affiliation: University of Bristol
+    orcid: "https://orcid.org/0009-0000-0144-2781"
+keywords:
+  - computer vision
